@@ -1,0 +1,88 @@
+body{
+	background-color:#490C0C;
+}
+
+h1,h2{
+	text-align: center;
+	color: white;
+	margin-top:30px;
+}
+.container{
+	text-align: center;
+}
+
+h3,h4,h6{
+color: white;	
+}
+
+p{
+	color: black;
+}
+
+
+.card-header,.custom1,.custom3{
+	color: white;
+}
+
+
+
+.alert-outex{
+	color:black;
+	background-color: orange;
+	border-color:red;
+}
+
+.badge-bg4{
+	color:black;
+	background-color: green;
+	border-color:red;
+}
+
+.slidar{
+	background-image: url(../images/bg.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+
+
+
+.custom-slidar {
+    background-color: rgba(35, 66, 216, 0.23);
+    color: white;
+    
+}
+
+.custom-slidar h3 {
+    font-size: 30px;
+    margin-top: 30px;
+    margin-bottom: 25px;
+}
+
+.custom-slidar h6{
+	font-size: 16px;
+	margin-bottom: 25px;
+}
+
+.custom-btn{
+margin-bottom: 83px;
+}
+
+
+.custom-indicator {
+   bottom: 50px;  
+}
+
+
+.custom-indicator li {
+   	width: 15px;
+    height: 15px;
+    border-radius: 50%;
+   background-color: rgba(1, 1, 1, 0.5);   
+}
+
+.custom-indicator .active {
+ background-color: #e50ff3c7;
+}
+
+
